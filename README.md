@@ -27,15 +27,15 @@ Managing Move Out Notices
 **Currently included tenants' functionalities**
 ```
 
-- [x] Personal Rent and utility tracking (visualizing electricity & water consumtion)
-- [ ] Online payments submission (Mpesa Integration & stripe)
-- [x] View payments history
-- [x] Keep track of notices made by managers
-- [x] View receieved notices & create moveout notice
-- [x] View and send tenancy related emails using the platform
-- [x] Make Complaints
-- [x] Create house reports
-- [x] Submit service rating (30 days from preveous rating)
+Personal Rent and utility tracking (visualizing electricity & water consumtion)
+Online payments submission (Mpesa Integration & stripe)
+View payments history
+Keep track of notices made by managers
+View receieved notices & create moveout notice
+View and send tenancy related emails using the platform
+Make Complaints
+Create house reports
+Submit service rating (30 days from preveous rating)
 ```
 **Shared Funtionalities**
 ```
