@@ -63,7 +63,7 @@ echo "STRIPE_SECRET_KEY='$STRIPE_SECRET_KEY'" >> .env
 echo "===== Creating the admin (superuser) ====="
 read -p "Admin username: " admin_username
 read -p "Admin email: " admin_email
-read -ps "Admin password: " admin_password
+read -p "Admin password: " admin_password
 
 echo "from django.contri.auth import get_user_model;User=get_user_model();User.objects.create_superuser('$admin_username','$admin_email','$admin_password')"|python3 manage.py shell
 
