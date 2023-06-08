@@ -1,9 +1,5 @@
 
 # RENTAL MANAGEMENT SYSTEM
-[![GitHub license](https://img.shields.io/github/license/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system)
-[![GitHub issues](https://img.shields.io/github/issues/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/network)
-[![GitHub stars](https://img.shields.io/github/stars/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/stargazers)
 
 RHMS is a web-based application developed using the _Django framework_. The aim is to help tenants and rental house managers track 
 rental arears and utility(water and electricity) payments while at the same time providing a communication chain, manager &harr; tenants
@@ -14,41 +10,41 @@ at any particular time.
 **Currently included functionalities for the managers**
 ```
 
-- [x] Utility (Electricity & Water) Tracking and Management
-- [x] Payments Management
-- [x] Adding Rental Houses
-- [x] Building updates
-- [x] Add Managers
-- [x] Tenant Management
-- [x] Hired Personnel Management
-- [x] Work Order Management
-- [x] Reports, complaints and Maintenance Management
-- [X] Visits Scheduling and Management 
-- [X] Email Communications and Notifications Management
-- [x] Eviction Management
-- [x] Managing Move Out Notices
+Utility (Electricity & Water) Tracking and Management
+Payments Management
+Adding Rental Houses
+Building updates
+Add Managers
+Tenant Management
+Hired Personnel Management
+Work Order Management
+Reports, complaints and Maintenance Management
+Visits Scheduling and Management 
+Email Communications and Notifications Management
+Eviction Management
+Managing Move Out Notices
 ```
 **Currently included tenants' functionalities**
 ```
 
-- [x] Personal Rent and utility tracking (visualizing electricity & water consumtion)
-- [ ] Online payments submission (Mpesa Integration & stripe)
-- [x] View payments history
-- [x] Keep track of notices made by managers
-- [x] View receieved notices & create moveout notice
-- [x] View and send tenancy related emails using the platform
-- [x] Make Complaints
-- [x] Create house reports
-- [x] Submit service rating (30 days from preveous rating)
+Personal Rent and utility tracking (visualizing electricity & water consumtion)
+Online payments submission (Mpesa Integration & stripe)
+View payments history
+Keep track of notices made by managers
+View receieved notices & create moveout notice
+View and send tenancy related emails using the platform
+Make Complaints
+Create house reports
+Submit service rating (30 days from preveous rating)
 ```
 **Shared Funtionalities**
 ```
-- [x] Account Management
+Account Management
     - SignUp & login, password change/reset, email confiration, profile update
-- [x] Online messaging
-- [x] Contact
-- [x] Scheduling visits
-- [x] Searching
+Online messaging
+Contact
+Scheduling visits
+Searching
 ```
 
 ## Modules
