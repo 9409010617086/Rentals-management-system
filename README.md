@@ -123,5 +123,5 @@ STRIPE_SECRET_KEY=#from cloudinary account
 - ```./run-project.sh``` and provide the env variables when prompted.
 
 
-![T506641634_g](https://github.com/9409010617086/Rentals-management-system/assets/111237261/8eae5f52-64de-4ec5-b8f1-4ab4159a49ae)
-![rent-manager](https://github.com/9409010617086/Rentals-management-system/assets/111237261/5449fb8d-d73d-4253-8c52-16322d51b3a4)
+![T506641634_g](https://github.com/9409010617086/Rentals-management-system/assets/111237261/c5621f16-5941-4f9c-8e1a-89422416acdf)
+
