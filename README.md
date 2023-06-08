@@ -51,13 +51,13 @@ at any particular time.
 ## Modules
 
 
-- [Accounts](https://github.com/shumwe/rental-house-management-system/tree/main/accounts)
+- [Accounts](https://github.com/9409010617086/Rental-management-system/tree/main/accounts)
     - User
     - Profiles
     - Managers
     - Tenants
 
-- [Core](https://github.com/shumwe/rental-house-management-system/tree/main/core)
+- [Core](https://github.com/9409010617086/Rental-management-system/tree/main/core)
     - Contact
         - Contacts Reply
     - Unit Tour | Visits
@@ -66,14 +66,14 @@ at any particular time.
     - Service rating
     - Communications & Emails
 
-- [Complaints & Reports ](https://github.com/shumwe/rental-house-management-system/tree/main/complaints)
+- [Complaints & Reports ](https://github.com/9409010617086/Rental-management-system/tree/main/complaints)
     - Unit Report Type
     - Unit Report
     - Unit Report Album
     - Complaints
     - Help Contacts
 
-- [Rental Property](https://github.com/shumwe/rental-house-management-system/tree/main/rental_property)
+- [Rental Property](https://github.com/9409010617086/Rental-management-system/tree/main/rental_property)
     - Counties
         - Estate
         - Building
@@ -82,7 +82,7 @@ at any particular time.
                 - Unit Album
             - MaintananceNotice
 
-- [Utilities & Rent](https://github.com/shumwe/rental-house-management-system/tree/main/utils)
+- [Utilities & Rent](https://github.com/9409010617086/Rental-management-system/tree/main/utils)
     - Payment Methods
     - Rent Details
         - Rent Payment
@@ -93,18 +93,18 @@ at any particular time.
         - Consumption Tracking
         - Payments
 
-- [Work Order](https://github.com/shumwe/rental-house-management-system/tree/main/work_order)
+- [Work Order](https://github.com/9409010617086/Rental-management-system/tree/main/work_order)
     - Hired Personnel
         - Personnel Contact
     - Work Order
         - WorkOrderPayments
 
-- [Reporting](https://github.com/shumwe/rental-house-management-system/tree/main/reporting)
+- [Reporting](https://github.com/9409010617086/Rental-management-system/tree/main/reporting)
     - ** Reports
 
-The entire relaltionship structure can be found [here](https://github.com/shumwe/rental-house-management-system/tree/main/relationships/relationships.png) or a view the dot [file](https://github.com/shumwe/rental-house-management-system/tree/main/relationships/dotfile.dot)
+The entire relaltionship structure can be found [here](https://github.com/9409010617086/Rental-management-system/tree/main/relationships/relationships.png) or a view the dot [file](https://github.com/9409010617086/Rental-management-system/tree/main/relationships/dotfile.dot)
 
-[Requirements](https://github.com/shumwe/rental-house-management-system/tree/main/requirements.txt )
+[Requirements](https://github.com/9409010617086/Rental-management-system/tree/main/requirements.txt )
 
 # Running the project
 
@@ -122,6 +122,4 @@ STRIPE_SECRET_KEY=#from cloudinary account
 - ```chmod +x run-project.sh```
 - ```./run-project.sh``` and provide the env variables when prompted.
 
-
 ![T506641634_g](https://github.com/9409010617086/Rentals-management-system/assets/111237261/c5621f16-5941-4f9c-8e1a-89422416acdf)
-
