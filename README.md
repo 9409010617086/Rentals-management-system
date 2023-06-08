@@ -1,9 +1,6 @@
 
 # RENTAL HOUSE MANAGEMENT SYSTEM
-[![GitHub license](https://img.shields.io/github/license/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system)
-[![GitHub issues](https://img.shields.io/github/issues/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/network)
-[![GitHub stars](https://img.shields.io/github/stars/shumwe/rental-house-management-system)](https://github.com/shumwe/rental-house-management-system/stargazers)
+
 
 RHMS is a web-based application developed using the _Django framework_. The aim is to help tenants and rental house managers track 
 rental arears and utility(water and electricity) payments while at the same time providing a communication chain, manager &harr; tenants
